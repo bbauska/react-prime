@@ -31,5 +31,6 @@ Who this course is for:
 
 <h2>Get Started:</h2>
   * https://github.com/facebook/create-react-app#creating-an-app
+  * 
   * https://nodejs.org/en/
 
