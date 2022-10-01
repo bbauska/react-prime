@@ -18,11 +18,13 @@ You'll learn how to set up your own React environment in just matter of minutes 
 - React Router V4
 
 What you’ll learn
-Understand fundamental React concepts
-Use some of ES6/ES7 JavaScript features
-Use de-facto standard routing solution for React applications - React Router
-Maintain and organize their React code base
+* Understand fundamental React concepts
+* Use some of ES6/ES7 JavaScript features
+* Use de-facto standard routing solution for React applications - React Router
+* Maintain and organize their React code base
+
 Are there any course requirements or prerequisites?
-You should be fairly familiar with JavaScript, HTML and CSS
++ You should be fairly familiar with JavaScript, HTML and CSS
+
 Who this course is for:
-Anyone who wants to learn React and deepen their knowledge about coding
+  - Anyone who wants to learn React and deepen their knowledge about coding
