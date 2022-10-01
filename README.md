@@ -29,4 +29,7 @@ Are there any course requirements or prerequisites?
 Who this course is for:
   - Anyone who wants to learn React and deepen their knowledge about coding
 
-https://github.com/facebook/create-react-app#creating-an-app
+<h2>Get Started:</h2>
+  * https://github.com/facebook/create-react-app#creating-an-app
+  * https://nodejs.org/en/
+
