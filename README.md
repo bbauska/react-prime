@@ -30,6 +30,6 @@ Who this course is for:
   - Anyone who wants to learn React and deepen their knowledge about coding
 
 <h2>Get Started:</h2>
-* https://github.com/facebook/create-react-app#creating-an-app
-* https://nodejs.org/en/
+- [Create React App](https://github.com/facebook/create-react-app#creating-an-app)
+- [Node JS](https://nodejs.org/en/)
 
